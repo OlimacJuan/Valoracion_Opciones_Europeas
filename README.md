@@ -1,6 +1,6 @@
 # Valoración de Opciones Europeas Call Ventana
 
-Proyecto académico de Métodos Matemáticos en Gestión Financiera (MMGF) que implementa la valoración analítica y simulación numérica de **opciones Call Ventana** (Window Call Options) sobre un activo subyacente modelado mediante el proceso de Black-Scholes.
+Proyecto académico de Modelos Matemáticos para la Gestión Financiera (MMGF) que implementa la valoración analítica y simulación numérica de **opciones Call Ventana** (Window Call Options) sobre un activo subyacente modelado mediante el proceso de Black-Scholes.
 
 ## Descripción
 
